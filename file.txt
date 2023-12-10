@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 siemens is a bad company.
+=======
+siemens is good company.
+>>>>>>> main
